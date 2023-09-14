@@ -36,7 +36,7 @@ then((response)=>{
         
 
         movies.push({Poster:poster,Movie_Name:title,Rating:rating,Link_of_Movie:"www.imdb.com/"+url});
-        // if(i==100){what is use of $ keyword in Javascript 
+        // if(i==100){
         //     return false;
         // }
 
